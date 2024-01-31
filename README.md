@@ -1,4 +1,5 @@
-# NYC_Dog_bites_Python_analysis
+# NYC Dog Bite Analysis with Python 
+
 Welcome to the NYC Dog Bite Data Analysis project! This project aims to investigate the statistics and trends related to dog bites in New York City from 2015 to 2021. Utilizing Python, particularly the Plotly package, I generated visually compelling interactive graphs to gain insights into this humorous yet concerning public health issue. The primary goal of this project is to analyze the NYC Dog Bite dataset and address key questions surrounding incidents of dog bites during the specified time frame. 
 
 Plotly Express is a high-level data visualization library in Python that provides an easy-to-use interface for creating a wide range of interactive plots. 
