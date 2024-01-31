@@ -30,7 +30,7 @@ fig2.show()
 fig2= px.pie(dog_percent[:20], values="Breed", names=dog_percent.index[:20])
 fig2.show()
 ```
-<img src="https://github.com/TenzingPalden/NYC_Dog_bites_Python_analysis/assets/85039775/abbf636a-fda9-4b3e-b068-0acfaed7ffca" alt="Image Description" width="800"/>
+<img src="https://github.com/TenzingPalden/NYC_Dog_bites_Python_analysis/assets/85039775/abbf636a-fda9-4b3e-b068-0acfaed7ffca" alt="Image Description" width="500"/>
 
 # Bar Chart of Dog Bite Count from 2015 to 2021
 ```Python
